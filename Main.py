@@ -9,7 +9,7 @@ clock = pygame.time.Clock()
 disWidth = 960
 disHeight = 600
 display = pygame.display.set_mode((disWidth,disHeight))
-pygame.display.set_caption("KurczakCross, napisane przez Marcina Gardy 3ATI")
+pygame.display.set_caption("KurczakCross")
 leftImg = pygame.image.load("LeftSide.png")
 rightImg = pygame.image.load("RightSide.png")
 kurczakImg = pygame.image.load("Kurczak.png")
